@@ -19,6 +19,6 @@ int main(){
     //캐스팅
     double pi = 3.14;
     int a;
-    a = (int)pi;  //()<- 캐스팅팅
+    a = (int)pi;  //()<- 캐스팅
     printf("%d\n", a);
 }
